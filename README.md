@@ -37,3 +37,5 @@ triangle.dart 对话框左右侧小三角组件
 如：home: FriendProfile(),可以查看朋友信息页
 
 ## 效果图
+见源码效果图文件夹
+
