@@ -35,3 +35,5 @@ triangle.dart 对话框左右侧小三角组件
 
 目前还未做页面之间的跳转，在main.dart的37行home部分进行修改可查看各页面。
 如：home: FriendProfile(),可以查看朋友信息页
+
+## 效果图
