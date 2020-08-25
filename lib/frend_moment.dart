@@ -39,7 +39,10 @@ class FriendMoment extends StatelessWidget {
       body: ListView.builder(
         itemBuilder: (context, index) {
           if (index == 0) {
-            return head;
+            return Padding(
+              padding: const EdgeInsets.only(bottom: 20),
+              child: head,
+            );
           }
           return MomentItem();
         },
